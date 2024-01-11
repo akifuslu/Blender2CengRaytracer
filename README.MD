@@ -2,6 +2,8 @@
 ## Installation
 Install the ceng_exporter.py file as an addon in Blender.
 Blender 3.6+ is supported.
+## Usage
+File -> Export -> CengRaytracer
 ## Supported Content
 - Background Color: Blender Scene World Background Color
 - Shadow Ray Epsilon: constant = 1e-3
